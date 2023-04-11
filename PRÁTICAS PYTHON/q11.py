@@ -1,4 +1,4 @@
-print('Números pares')
+print('CALCULAR NPUMEROS PARES')
 pares = []
 
 for i in range(1, 11):
@@ -6,6 +6,6 @@ for i in range(1, 11):
     if num % 2 == 0:
         pares.append(num)
         
-print('Os números pares informados são: ')
+print('Os números pares são: ')
 for num in pares:
     print(num)
