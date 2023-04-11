@@ -1,0 +1,1 @@
+print ('Bem vindo a PEED, prepare as lágrimas.')
