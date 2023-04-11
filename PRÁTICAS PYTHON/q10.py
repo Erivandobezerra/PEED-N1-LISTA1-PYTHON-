@@ -1,4 +1,4 @@
-print('MÉDIA')
+print('CALCULADORA DE MÉDIA')
 soma = 0
 
 for i in range(1,6):
@@ -6,4 +6,4 @@ for i in range(1,6):
     soma = soma + num
 media = soma/5
 
-print('A média é: ', media)
+print('A média da soma anterior é: ', media)
